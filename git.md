@@ -1,4 +1,4 @@
-# Git Comands
+# Basic git Comands
 
 This is a small repository where I am going to push some basics. The basic commands that we can extract from a sheet cheat. They are:
 
@@ -28,3 +28,15 @@ This is a small repository where I am going to push some basics. The basic comma
 .notes pattern/ | Save a file with desired patterns as .gitignore with either direct string matches or wildcard globs. |
 | git config --global core.excludesfile [file] | system wide ignore pattern for all local repositories |
 
+# Other Git Commands
+
+1. Revert a Commit that was not pushed.
+~~~
+git
+
+~~~
+2. Revert a Pushed commit.
+asdfsadf
+3. Revert a Branch: For reverting a branch we have two ways for do it this.
+    1. 
+4. Rebase a Branch.
