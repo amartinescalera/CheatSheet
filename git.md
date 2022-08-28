@@ -36,7 +36,23 @@ git
 
 ~~~
 2. Revert a Pushed commit.
-asdfsadf
+~~~
+git
+
+~~~
 3. Revert a Branch: For reverting a branch we have two ways for do it this.
-    1. 
+    1. Doing a Revert.
+    ~~~
+    git
+
+    ~~~
+    2. Doing a Rebase.
+        ~~~
+    git
+
+    ~~~
 4. Rebase a Branch.
+    ~~~
+    git
+
+    ~~~
